@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cubas",
+  "info": {
+    "singularName": "cuba",
+    "pluralName": "cubas",
+    "displayName": "Cuba"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}
